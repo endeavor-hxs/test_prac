@@ -8,12 +8,19 @@ enemy_final_hp = enemy_hp - my_power
 
 
 def game():
+    #我的血量1000
     my_hp = 1000
+    # 我的能量200
     my_power = 200
+    # 你的血量1000
     your_hp = 1000
+    # 你的能量199
     your_power = 199
+
     while True:
+        # 我的血量 = 我的血量-你的能量
         my_hp = my_hp - your_power
+        # 你的血量= 你的血量- 我的能量
         your_hp = your_hp - my_power
         print(my_hp)
         if my_hp <= 0:
@@ -23,5 +30,5 @@ def game():
             print("你输了")
             break
 
-
+#调用game函数
 game()
