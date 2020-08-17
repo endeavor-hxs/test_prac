@@ -13,7 +13,7 @@ from calculator_pract.calculator_pract import Calculator
 
 
 def addd_data_calc():
-    with open('../data_calc.yml', encoding='utf-8') as f:
+    with open('../test_calc_fixture/data_calc.yml', encoding='utf-8') as f:
         data = yaml.safe_load(f)
         add_data = data['add']['datas']
         ids = data['add']['ids']
