@@ -1,0 +1,122 @@
+{
+  "uid": "cc61eee733f10387",
+  "name": "test_add_deci[为零]",
+  "fullName": "test_calc_fixture.test_calcu_fix.TestCalcu#test_add_deci",
+  "historyId": "7ea500df8a8ef1cd4b990ad6f7254260",
+  "time": {
+    "start": 1597679467486,
+    "stop": 1597679467486,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "beforeStages": [
+    {
+      "name": "calc_print",
+      "time": {
+        "start": 1597679467338,
+        "stop": 1597679467338,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "calc_print::0",
+      "time": {
+        "start": 1597679467714,
+        "stop": 1597679467714,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=2)"
+    },
+    {
+      "name": "parentSuite",
+      "value": "test_calc_fixture"
+    },
+    {
+      "name": "suite",
+      "value": "test_calcu_fix"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalcu"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-6B7PLFO"
+    },
+    {
+      "name": "thread",
+      "value": "17564-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc_fixture.test_calcu_fix"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "a",
+      "value": "10"
+    },
+    {
+      "name": "b",
+      "value": "0"
+    },
+    {
+      "name": "expect",
+      "value": "10"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "run(order=2)"
+    ]
+  },
+  "source": "cc61eee733f10387.json",
+  "parameterValues": [
+    "10",
+    "0",
+    "10"
+  ]
+}

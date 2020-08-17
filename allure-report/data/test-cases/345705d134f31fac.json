@@ -1,0 +1,140 @@
+{
+  "uid": "345705d134f31fac",
+  "name": "test_div[2-0-0]",
+  "fullName": "test_calc_fixture.test_calcu_fix.TestCalcu#test_div",
+  "historyId": "4501bf60e6f1557e0e1602ec6f01b75f",
+  "time": {
+    "start": 1597679467653,
+    "stop": 1597679467654,
+    "duration": 1
+  },
+  "status": "passed",
+  "flaky": false,
+  "beforeStages": [
+    {
+      "name": "calc_print",
+      "time": {
+        "start": 1597679467338,
+        "stop": 1597679467338,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "testStage": {
+    "status": "passed",
+    "steps": [],
+    "attachments": [
+      {
+        "uid": "b9658cb9d93ba8d3",
+        "name": "stdout",
+        "source": "b9658cb9d93ba8d3.txt",
+        "type": "text/plain",
+        "size": 22
+      }
+    ],
+    "parameters": [],
+    "shouldDisplayMessage": false,
+    "attachmentsCount": 1,
+    "stepsCount": 0,
+    "hasContent": true
+  },
+  "afterStages": [
+    {
+      "name": "calc_print::0",
+      "time": {
+        "start": 1597679467714,
+        "stop": 1597679467714,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=5)"
+    },
+    {
+      "name": "parentSuite",
+      "value": "test_calc_fixture"
+    },
+    {
+      "name": "suite",
+      "value": "test_calcu_fix"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalcu"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-6B7PLFO"
+    },
+    {
+      "name": "thread",
+      "value": "17564-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc_fixture.test_calcu_fix"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "a",
+      "value": "2"
+    },
+    {
+      "name": "b",
+      "value": "0"
+    },
+    {
+      "name": "expect",
+      "value": "0"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "run(order=5)"
+    ]
+  },
+  "source": "345705d134f31fac.json",
+  "parameterValues": [
+    "2",
+    "0",
+    "0"
+  ]
+}

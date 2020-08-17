@@ -1,0 +1,62 @@
+{
+  "name": "test_sub[为零]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "a",
+      "value": "10"
+    },
+    {
+      "name": "b",
+      "value": "0"
+    },
+    {
+      "name": "expect",
+      "value": "10"
+    }
+  ],
+  "start": 1597679467541,
+  "stop": 1597679467541,
+  "uuid": "9fdf3060-3a48-4857-af6e-819cabb1c0bd",
+  "historyId": "1b81cf3221cc84bdf808faf65b0410c1",
+  "testCaseId": "82952bde67385b00a2b553988769b4b1",
+  "fullName": "test_calc_fixture.test_calcu_fix.TestCalcu#test_sub",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=3)"
+    },
+    {
+      "name": "parentSuite",
+      "value": "test_calc_fixture"
+    },
+    {
+      "name": "suite",
+      "value": "test_calcu_fix"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalcu"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-6B7PLFO"
+    },
+    {
+      "name": "thread",
+      "value": "17564-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc_fixture.test_calcu_fix"
+    }
+  ]
+}

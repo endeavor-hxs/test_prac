@@ -1,0 +1,69 @@
+{
+  "name": "test_div[0.3-0.1-3]",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "a35d979d-95e6-4f16-b7bb-4720fdffedc1-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "a",
+      "value": "0.3"
+    },
+    {
+      "name": "b",
+      "value": "0.1"
+    },
+    {
+      "name": "expect",
+      "value": "3"
+    }
+  ],
+  "start": 1597679467711,
+  "stop": 1597679467711,
+  "uuid": "06bd0f47-84ea-4921-8a1f-c452b8028d63",
+  "historyId": "45f022345b770d9213a21430ba73bb24",
+  "testCaseId": "4365b25b14c34a4560e7cd005f9dbb2b",
+  "fullName": "test_calc_fixture.test_calcu_fix.TestCalcu#test_div",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "run(order=5)"
+    },
+    {
+      "name": "parentSuite",
+      "value": "test_calc_fixture"
+    },
+    {
+      "name": "suite",
+      "value": "test_calcu_fix"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalcu"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-6B7PLFO"
+    },
+    {
+      "name": "thread",
+      "value": "17564-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc_fixture.test_calcu_fix"
+    }
+  ]
+}
