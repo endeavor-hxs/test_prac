@@ -4,4 +4,4 @@
 
 #第七次作业
 
-#test_appium
+#test_appium/test_del_member.py
