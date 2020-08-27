@@ -1,3 +1,7 @@
-#第五次上传作业
+#第六次上传作业
 
-#test_wechat_upload/test_wechat_up.py
+#page_test_object
+
+#第七次作业
+
+#test_appium
